@@ -1,0 +1,22 @@
+{
+  "name": "okbot",
+  "version": "0.0.1",
+  "description": "message bot",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^5.8.25",
+    "babelify": "^6.3.0",
+    "bluebird": "^2.10.1",
+    "browserify": "^11.1.0",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.1",
+    "gulp-browserify": "^0.5.1",
+    "phantomjs": "^1.9.18",
+    "watchify": "^3.4.0"
+  }
+}
